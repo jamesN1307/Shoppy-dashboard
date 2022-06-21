@@ -1,70 +1,64 @@
-# Getting Started with Create React App
+# project-3
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+    <img src="https://img.shields.io/github/last-commit/jamesN1307/Shoppy-dashboard" />
+    <img src="https://img.shields.io/github/languages/top/jamesN1307/Shoppy-dashboard"  />
+    <img src="https://img.shields.io/github/issues/jamesN1307/Shoppy-dashboard" />
+    <img src="https://img.shields.io/github/last-commit/jamesN1307/Shoppy-dashboard" >
+    <a href="https://twitter.com/KingJames1307">
+        <img alt="Twitter: KingJames1307" src="https://img.shields.io/twitter/follow/KingJames1307.svg?style=social" target="_blank" />
+    </a>
+</p>
+  
+<p align="center">
+    <img src="https://img.shields.io/badge/Javascript-yellow" />
+    <img src="https://img.shields.io/badge/-node.js-green" />
+    <img src="https://img.shields.io/badge/-React-lightgrey" />
+    <img src="https://img.shields.io/badge/-express-orange" />
+    <img src="https://img.shields.io/badge/-tailwind-blue" />
+    <img src="https://img.shields.io/badge/-syncfusion-orange" />
+</p>
+</p>
+   
+## Description
 
-## Available Scripts
+🔍Shoppy is a modern e-commerce platform that is build with tailwindCss and React 
 
-In the project directory, you can run:
 
-### `npm start`
+# Table of Contents
+* Description
+* Contributions
+* Images 
+* Question
+* Start with cloning this repo to your local machine. Type in then to install all of the necessary npm's to run this program. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Usage
+💻
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+npm start
 
-### `npm test`
+With Nodemon:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+npm run watch
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## License
+MIT
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Contributions
+:octocat: James Nguyen --- https://github.com/jamesN1307
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Images 
+![Screenshot 2022-06-20 235825](https://user-images.githubusercontent.com/97413286/174736351-c4e207d1-ead6-464e-a846-78f9025383e7.png)
+![Screenshot 2022-06-20 235726](https://user-images.githubusercontent.com/97413286/174736357-ff69213d-564e-42c2-be57-2653c7bfc76e.png)
+![Screenshot 2022-06-20 235751](https://user-images.githubusercontent.com/97413286/174736374-a53dab90-89ba-4527-89bd-8c133edcde00.png)
+![Screenshot 2022-06-20 235804](https://user-images.githubusercontent.com/97413286/174736378-4e98073e-3c81-4a98-a66d-a007907946d6.png)
+![Screenshot 2022-06-20 235931](https://user-images.githubusercontent.com/97413286/174736464-ff666274-7b23-47a1-8e95-c502ec9e392d.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Questions
+If you want to checkout my work, visit my Github account: https://github.com/jamesN1307 or
+email me with any questions you might have: tri1307@uw.edu
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
