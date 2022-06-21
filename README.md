@@ -24,6 +24,8 @@
 
 🔍Shoppy is a modern e-commerce platform that is build with tailwindCss and React 
 
+URL ---https://shoppy13.netlify.app/kanban
+
 
 # Table of Contents
 * Description
