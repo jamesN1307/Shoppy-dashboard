@@ -1,3 +1,4 @@
+
 import React from 'react';
 import { ChartComponent, SeriesCollectionDirective, SeriesDirective, Inject, ColumnSeries, Category, Tooltip, Legend, RangeColorSettingsDirective, RangeColorSettingDirective } from '@syncfusion/ej2-react-charts';
 
@@ -46,3 +47,4 @@ const ColorMapping = () => {
 };
 
 export default ColorMapping;
+
